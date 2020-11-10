@@ -1,0 +1,16 @@
+// C++ Test File
+
+/*
+    C++ Test File
+*/
+
+int num=1;
+   do{
+      num++;
+   }while(num<=6);
+   return 0;
+
+_word = "rain";
+
+int x;
+x = x + 5;
